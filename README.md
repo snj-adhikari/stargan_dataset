@@ -1,0 +1,2 @@
+# stargan_dataset
+This repository contains code for creation new dataset of face images using wiki and youtube. Python autocropper package was used to crop the faces images from other image obtained from youtube video and wiki  Creation and testing of new dataset for stargan can be found on creating and testing folder with python jupyter notebook describing the whole code and process.  Google survey forms were used for the evalutaion of result got from the new dataset . It can be found under evaluation folder with excel file of response of google form.
